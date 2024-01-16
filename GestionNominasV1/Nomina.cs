@@ -8,5 +8,12 @@ namespace GestionNominasV1
 {
     public class Nomina
     {
+        // MIEMBROS PRIVADOS DE LA CLASE
+        private string _nombre;
+        private string _apellidos;
+        private string _puesto;
+        private int _horas;
+        private float _salarioHora;
+
     }
 }
