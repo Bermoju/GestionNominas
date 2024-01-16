@@ -39,6 +39,14 @@ namespace GestionNominasV1
 
             }
         }
+        public strin ApellidosEmpleado{
+            get{
 
+                retun _apellidos;
+            }
+            set{
+                _apellidos = value;
+            }
+        }
     }
 }
